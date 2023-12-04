@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ArtExhibitList
+  - CinemachineTarget
+  - Photon Manager
+  - Selected Channel Text
+  - InputFieldChat
+  - PhotonChatGUI
+  - NickName Filed
+  - Exhibit
+  - Video Display
+  - Voice exhibit
+  - CM vcam1
+  - Door
+  - Loading
+  - Event
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Seminar
+  - Water
+  - UI
+  - Postprocessing
+  - Exhibit
+  - Wall
+  - Door
+  - Chair
+  - Event
+  - Board
+  - SeminarDoor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: The Highest
+    uniqueID: 2126402281
+    locked: 0
